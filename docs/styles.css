@@ -5,6 +5,7 @@ body {
     background-color: hsl(275, 100%, 97%);
     background-position: top;
     background-repeat: no-repeat;
+    background-size: contain;
     font-family: "Work Sans";
     display: flex;
     flex-direction: column;
